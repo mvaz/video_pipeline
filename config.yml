@@ -1,0 +1,6 @@
+bitport_email: 'your_email@domain.com'
+bitport_password: 'your_password'
+download_folder: '/volume1/Media/Downloads'
+movies_folder: '/volume1/Media/Movies'
+tv_shows_folder: '/volume1/Media/TV Shows'
+bitport_base_url: 'https://api.bitport.io/v2'
